@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.pokemon-box input {
+  width: 40%;
+  padding: 1.5rem;
+  border: 2px solid #928e8b;
+  border-radius: 10px;
+}
+.pokemon-box {
+  text-align: center;
+}
+.pokemon-Info {
+  margin: 2rem 0 0 0;
+  justify-content: space-evenly;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+.control button {
+  padding: 1rem;
+  text-transform: capitalize;
+  font-size: large;
+  margin: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.control button:hover {
+  background-color: transparent;
+}

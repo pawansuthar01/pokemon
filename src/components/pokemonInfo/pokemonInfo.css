@@ -1,0 +1,25 @@
+.pokemon-details-box {
+  padding: 1rem;
+  border-radius: 15px;
+  background-color: #e2b9b9;
+}
+.sub_box {
+  padding: 1rem 1rem 0 1rem;
+  text-align: center;
+  display: grid;
+  background-color: #fff;
+  gap: 1rem;
+}
+.image_box img {
+  width: 300px;
+  height: 200px;
+}
+.details-box {
+  font-size: 1.1rem;
+  letter-spacing: 0.1rem;
+  background-color: #eacbb5;
+  padding: 0.5rem;
+}
+.control {
+  padding: 0.5rem;
+}

@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  height: 200px;
+  margin: 1rem;
+  width: 300px;
+  text-decoration: none;
+}
+.Link {
+  text-decoration: none;
+  color: black;
+}
+.pokemon_name {
+  margin-bottom: 1rem;
+  font-size: large;
+  letter-spacing: 0.4rem;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.pokemon_image {
+  height: 150px;
+}
+.container:hover {
+  border-radius: 2%;
+  cursor: pointer;
+  background-color: #dacfcb;
+}
