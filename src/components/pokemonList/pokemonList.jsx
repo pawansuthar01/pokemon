@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 import "./pokemonList.css";
 import Pokemon from "../pokemon/pokemon";
 import usePokemonList from "../../hooks/usePokemonlist";
